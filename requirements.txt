@@ -3,3 +3,4 @@ pydantic
 pandas
 tensorflow
 numpy
+uvicorn
